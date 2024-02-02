@@ -9,4 +9,6 @@ public class user {
   private UUID id;
 
   private String name;
+
+  private String address;
 }
